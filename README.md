@@ -1,4 +1,4 @@
-# Site-para-cafeteria
+# Site Dulce Paladar
 Projeto de Site para Cafeteria
 
 ```
